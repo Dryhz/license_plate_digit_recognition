@@ -1,0 +1,2 @@
+# license_plate_digit_recognition
+基于结构先验与混合特征的极小样本车牌数字识别系统
