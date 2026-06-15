@@ -1,0 +1,7 @@
+﻿model,synthetic_validation_accuracy,segmented_digit_accuracy
+linear_C0.5,1.0,0.875
+linear_C1,1.0,0.875
+linear_C3,1.0,0.875
+rbf_C3_scale,1.0,0.8125
+rbf_C10_scale,1.0,0.8125
+rbf_C30_scale,1.0,0.8125

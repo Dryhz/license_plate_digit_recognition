@@ -1,0 +1,5 @@
+﻿stage,correct,total,accuracy
+Template match,10,16,0.625
+SVM only,12,16,0.75
+SVM + template,12,16,0.75
++ structural rules,15,16,0.9375
